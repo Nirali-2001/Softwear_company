@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none !important;;
+}
+.btn{
+    background: linear-gradient(225deg, #6675F7 0%, #57007B 100%) !important;
+
+}
+
+
